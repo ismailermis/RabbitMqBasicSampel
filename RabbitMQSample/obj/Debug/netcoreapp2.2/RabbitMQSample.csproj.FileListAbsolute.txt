@@ -1,0 +1,11 @@
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\bin\Debug\netcoreapp2.2\RabbitMQSample.deps.json
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\bin\Debug\netcoreapp2.2\RabbitMQSample.runtimeconfig.json
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\bin\Debug\netcoreapp2.2\RabbitMQSample.runtimeconfig.dev.json
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\bin\Debug\netcoreapp2.2\RabbitMQSample.dll
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.csprojAssemblyReference.cache
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.csproj.CoreCompileInputs.cache
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.AssemblyInfoInputs.cache
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.AssemblyInfo.cs
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\bin\Debug\netcoreapp2.2\RabbitMQSample.pdb
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.dll
+C:\Projects\localProjects\RabbitMQSample\RabbitMQSample\obj\Debug\netcoreapp2.2\RabbitMQSample.pdb
